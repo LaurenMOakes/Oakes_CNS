@@ -1,2 +1,2 @@
 
-!"C:\Users\LMOakes\OneDrive - Coast Guard Academy\1c\CNS\Lab3\vagrant_ssh.png"
+!(https://github.com/LaurenMOakes/Oakes_CNS/blob/main/HW1/vagrant_ssh.png?raw=true)
