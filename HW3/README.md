@@ -7,7 +7,7 @@ Computer and Network Security
 # Linux Distribution 
 I chose to install Oracle Linux because it had the most helpful documentation as well as online recources to assist further in the homework. 
 
-
+! [] https://github.com/LaurenMOakes/Oakes_CNS/blob/main/HW3/oracle%20linux.png?raw=true
 
 
 # SCC Tool
