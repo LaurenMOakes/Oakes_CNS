@@ -7,7 +7,7 @@ Homework 4
 28 Sep 2023
 
 # Create AD User
-![]()
+![](https://github.com/LaurenMOakes/Oakes_CNS/blob/main/HW4/Users.png?raw=true)
 
 # Logon on NUC with AD User
 ![](https://github.com/LaurenMOakes/Oakes_CNS/blob/main/HW4/nuc%20on%20domain.png?raw=true)
