@@ -17,3 +17,5 @@ This course was very short and did not include an assesment, however, through th
   I chose to exclude this Security Windows event because I don't believe it is necessary for our system. Bascially what this Event ID does is it logs when the Windows Filtering Paltform (bascially a firewall) allows a network connection, and so everytime there is a succesful connection an event will be created which in my opinion will create too much unnecesarry events for one security framework. 
 
 ## Screenshot of input.conf on NUC
+  The screenshot below shows our inputs.conf file. The code necessary to exclude a Windows Event ID is name_of_blacklist = EventCode = "<Code>". Each code will need to be blacklisted under its corresponding log section (Application, System, Security, Setup). 
+![](https://github.com/LaurenMOakes/Oakes_CNS/blob/main/HW6/inputs.conf.png?raw=true)
